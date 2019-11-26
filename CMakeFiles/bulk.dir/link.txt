@@ -1,1 +1,0 @@
-/usr/bin/g++-7     CMakeFiles/bulk.dir/main.cpp.o CMakeFiles/bulk.dir/collect.cpp.o  -o bulk 
